@@ -1,0 +1,11 @@
+F:\Projects\Support\EasyMilk_GitHub\EasyMilk.WebApi.Test\EasyMilk.WebApi.Test\EasyMilk.WebApi.Test\bin\Debug\netcoreapp2.0\EasyMilk.WebApi.Test.deps.json
+F:\Projects\Support\EasyMilk_GitHub\EasyMilk.WebApi.Test\EasyMilk.WebApi.Test\EasyMilk.WebApi.Test\bin\Debug\netcoreapp2.0\EasyMilk.WebApi.Test.runtimeconfig.json
+F:\Projects\Support\EasyMilk_GitHub\EasyMilk.WebApi.Test\EasyMilk.WebApi.Test\EasyMilk.WebApi.Test\bin\Debug\netcoreapp2.0\EasyMilk.WebApi.Test.runtimeconfig.dev.json
+F:\Projects\Support\EasyMilk_GitHub\EasyMilk.WebApi.Test\EasyMilk.WebApi.Test\EasyMilk.WebApi.Test\bin\Debug\netcoreapp2.0\EasyMilk.WebApi.Test.dll
+F:\Projects\Support\EasyMilk_GitHub\EasyMilk.WebApi.Test\EasyMilk.WebApi.Test\EasyMilk.WebApi.Test\bin\Debug\netcoreapp2.0\EasyMilk.WebApi.Test.pdb
+F:\Projects\Support\EasyMilk_GitHub\EasyMilk.WebApi.Test\EasyMilk.WebApi.Test\EasyMilk.WebApi.Test\obj\Debug\netcoreapp2.0\EasyMilk.WebApi.Test.csprojResolveAssemblyReference.cache
+F:\Projects\Support\EasyMilk_GitHub\EasyMilk.WebApi.Test\EasyMilk.WebApi.Test\EasyMilk.WebApi.Test\obj\Debug\netcoreapp2.0\EasyMilk.WebApi.Test.csproj.CoreCompileInputs.cache
+F:\Projects\Support\EasyMilk_GitHub\EasyMilk.WebApi.Test\EasyMilk.WebApi.Test\EasyMilk.WebApi.Test\obj\Debug\netcoreapp2.0\EasyMilk.WebApi.Test.AssemblyInfoInputs.cache
+F:\Projects\Support\EasyMilk_GitHub\EasyMilk.WebApi.Test\EasyMilk.WebApi.Test\EasyMilk.WebApi.Test\obj\Debug\netcoreapp2.0\EasyMilk.WebApi.Test.AssemblyInfo.cs
+F:\Projects\Support\EasyMilk_GitHub\EasyMilk.WebApi.Test\EasyMilk.WebApi.Test\EasyMilk.WebApi.Test\obj\Debug\netcoreapp2.0\EasyMilk.WebApi.Test.dll
+F:\Projects\Support\EasyMilk_GitHub\EasyMilk.WebApi.Test\EasyMilk.WebApi.Test\EasyMilk.WebApi.Test\obj\Debug\netcoreapp2.0\EasyMilk.WebApi.Test.pdb
